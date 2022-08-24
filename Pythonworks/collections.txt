@@ -1,0 +1,26 @@
+list,tuple,set,dictionary
+list=>[] =>duplicate value allow
+eg:
+a=[]
+a=[1,2,3]
+a=['apple','apple','orange','Grape']
+a[0]='bannana']
+tuple=> not changeable,duplicate value allow
+eg:
+b=()
+b=(34,56,7)
+b[0]=54
+
+set=>not allow duplication
+set=>{}
+eg:
+set{'apple','orange','apple'}
+unordered
+
+dictionary=>key,value
+dictionary=>{key:value}
+eg:
+flw={'R':'Rose','J':'jasmine'}
+car={'T':'Toyota','E':'Toyota'}
+flw['R']
+flw['J']

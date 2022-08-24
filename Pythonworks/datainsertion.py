@@ -1,0 +1,10 @@
+import connect_db
+db_obj=connect_db.Connect_data()
+ftname=input("Enter your  firstname")
+lname=input("Enter your  lastname")
+eml=input("Enter your  email")
+db_obj.cr.execute("insert into emp_tbl values(%s,%s,%s,%s)",(0,ftname,lname,eml))
+db_obj.con.commit()
+db_obj.cr.close()
+db_obj.con.close()
+print("data inserted")

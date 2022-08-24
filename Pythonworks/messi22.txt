@@ -1,0 +1,4 @@
+
+ Name:	messi
+ Age:	22
+ Place:	pssk
