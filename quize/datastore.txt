@@ -1,0 +1,13 @@
+
+iteam id: 101
+iteam Name: Chilly
+Point:1
+iteam id: 101
+iteam Name: Chilly
+Point:0
+iteam id: 102
+iteam Name: Salt
+Point:1
+iteam id: 102
+iteam Name: Salt
+Point:2
